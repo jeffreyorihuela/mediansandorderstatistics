@@ -1,3 +1,6 @@
-#Randomized quickselect O(n)
+# Randomized quickselect O(n)
 
-#Median of medians algorithm O(n)  - deterministic algorithm
+# Median of medians algorithm O(n)  - deterministic algorithm
+
+# Analysis :
+  (to complete)
